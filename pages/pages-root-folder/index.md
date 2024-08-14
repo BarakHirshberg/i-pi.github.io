@@ -22,6 +22,17 @@ permalink: /index.html
 homepage: true
 ---
 
+## i-PI 3.0 is out!
+
+Check the [press release](https://pubs.aip.org/aip/sci/article/2024/33/331102/3308035/Updates-to-i-PI-package-improve-performance-in?searchresult=1) and the [new paper](https://pubs.aip.org/aip/jcp/article/161/6/062504/3308034/i-PI-3-0-A-flexible-and-efficient-framework-for) now in J. Chem. Phys. 
+A much faster code and plenty of new features that 
+the flexible i-PI infrastructure makes easy to implement and use. Better docs and examples
+for all users too! Try it out and do not hesitate to contact us with feedback.
+
+<p align="center">
+  <img src="{{ site.urlimg }}i-pi-3.0.jpeg" alt="iPi-3.0 release" />
+</p>
+
 
 i-PI is a universal force engine interface
 written in Python, designed to be used together with an ab-initio, machine-learned,
