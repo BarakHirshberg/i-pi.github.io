@@ -60,7 +60,7 @@ To get the most up-to-date version, fetch it from the
 [official i-PI repo](https://github.com/i-pi/i-pi). If you find it
 useful for your research, please cite us:
 
-[Kapil et al., Comp. Phys. Comm. 236, 214--223 (2018)](https://doi.org/10.1016/j.cpc.2018.09.020)
+[Litman et al., *J. Chem. Phys.* 161, 062504 (2024)](https://doi.org/10.1063/5.0215869)
 
 
 As of today, the following electronic-structure codes provide out-of-the-box an i-PI interface: 
