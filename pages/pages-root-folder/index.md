@@ -22,7 +22,7 @@ permalink: /index.html
 homepage: true
 ---
 
-# i-PI 3.0 is out!
+<h1> i-PI 3.0 is out! </h1>
 
 Check the [press release](https://pubs.aip.org/aip/sci/article/2024/33/331102/3308035/Updates-to-i-PI-package-improve-performance-in?searchresult=1) and the [new paper](https://pubs.aip.org/aip/jcp/article/161/6/062504/3308034/i-PI-3-0-A-flexible-and-efficient-framework-for) now in J. Chem. Phys. 
 A much faster code and plenty of new features that 
