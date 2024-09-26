@@ -44,8 +44,9 @@ Atomistic recipes
 -----------------
 
 You can find a few commented examples of simulations based on i-PI in the
-[atomistic cookbook](https://lab-cosmo.github.io/atomistic-cookbook), such as
-an [introduction to path integral simulations](https://lab-cosmo.github.io/atomistic-cookbook/latest/examples/path-integrals/path-integrals.html)
+[atomistic cookbook](https://lab-cosmo.github.io/atomistic-cookbook/), such as
+an [introduction to path integral simulations](https://lab-cosmo.github.io/atomistic-cookbook/latest/examples/path-integrals/path-integrals.html), 
+a discussion of [how to compute quantum heat capacities](https://lab-cosmo.github.io/atomistic-cookbook/latest/examples/heat-capacity/heat-capacity.html)
 and an example of [path integral metadynamics](https://lab-cosmo.github.io/atomistic-cookbook/latest/examples/pi-metad/pi-metad.html).
 
 Other examples
