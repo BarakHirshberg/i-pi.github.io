@@ -3,7 +3,7 @@
   side: left
   dropdown:
   - title: "Features"
-    url: "/i-pi/features.html"
+    url: "http://docs.ipi-code.org/features.html"
   - title: "The socket interface"
     url: /about/interface/
   - title: "Behind the code"
@@ -17,7 +17,7 @@
   side: left
   dropdown:
   - title: "Documentation"
-    url: "/i-pi/"
+    url: "http://docs.ipi-code.org/"
   - title: "Tutorials"
     url: "/resources/tutorials/"
   - title: "Getting Started"
